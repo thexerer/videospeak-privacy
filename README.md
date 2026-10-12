@@ -4,7 +4,7 @@ Practice English speaking with video captions. Repeat sentences, record your voi
 
 [Product guide](https://thexerer.github.io/videospeak-privacy/product.html) · [Privacy policy](https://thexerer.github.io/videospeak-privacy/) · [Support and feature requests](https://github.com/thexerer/videospeak-privacy/issues)
 
-The Chrome Web Store installation link is not available here yet. Use GitHub's **Watch** menu to follow publication updates.
+**[Install VideoSpeak from the Chrome Web Store](https://chromewebstore.google.com/detail/videospeak/hmjagehcbajijdnlnigphmngpihonkgn)**
 
 ## Turn video captions into speaking practice.
 
@@ -64,7 +64,7 @@ Local recording remains in memory until you close the workspace, unless you down
 
 ### Where can I install it?
 
-The Chrome Web Store link will appear here when it is available. Use the GitHub repository Watch menu to follow updates. No account is required for the extension itself.
+[Install VideoSpeak from the Chrome Web Store](https://chromewebstore.google.com/detail/videospeak/hmjagehcbajijdnlnigphmngpihonkgn). No account is required for the extension itself.
 
 ## Privacy and data handling
 
