@@ -1,10 +1,10 @@
 # VideoSpeak
 
+**[Install VideoSpeak from the Chrome Web Store](https://chromewebstore.google.com/detail/videospeak/hmjagehcbajijdnlnigphmngpihonkgn)**
+
 Practice English speaking with video captions. Repeat sentences, record your voice, compare words and save phrases with notes for review.
 
 [Product guide](https://thexerer.github.io/videospeak-privacy/product.html) · [Privacy policy](https://thexerer.github.io/videospeak-privacy/) · [Support and feature requests](https://github.com/thexerer/videospeak-privacy/issues)
-
-**[Install VideoSpeak from the Chrome Web Store](https://chromewebstore.google.com/detail/videospeak/hmjagehcbajijdnlnigphmngpihonkgn)**
 
 ## Turn video captions into speaking practice.
 
